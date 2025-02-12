@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on freelance jobs<br>👯 I’m looking to collaborate on interesting projects<br>🌱 I’m currently learning the Certified Tech Developer on Digital House,<br>       Node js , and React js<br><br>
+🔭 I’m currently working on freelance jobs<br>👯 I’m looking to collaborate on interesting projects<br>🌱 I’m Profesional Developer on Digital House,<br>       Node js , and React js<br><br>
 
 
 ## 🌐 Socials:
